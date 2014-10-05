@@ -22,7 +22,12 @@ body
   	-moz-background-size: cover;
   	-o-background-size: cover;
 	}
+.navbar {
+   background-color: transparent;
+   background: transparent;
+}
 
+.navbar li { color: #FFFFFF; }
 h1, h2, h3, h4 {
   color: #f22430;
 }
