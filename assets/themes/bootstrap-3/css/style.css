@@ -25,9 +25,14 @@ body
 .navbar {
    background-color: transparent;
    background: transparent;
+   border-color:black;
+   color:#FFFFFF;
 }
 
 .navbar li { color: #FFFFFF; }
+#footer{
+  background-color:none;
+}
 h1, h2, h3, h4 {
   color: #f22430;
 }
