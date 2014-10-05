@@ -28,7 +28,9 @@ body
    border-color:black;
    color:#FFFFFF;
 }
-
+.navbar-custom {
+    color: #FFFFFF;
+}
 .navbar li { color: #FFFFFF; }
 #footer{
   background-color:none;
