@@ -22,9 +22,10 @@ body
   	-moz-background-size: cover;
   	-o-background-size: cover;
 	}
-.collapse navbar-collapse ul li{
+.navbar-brand{
  	color:#29a0d8;
 }
+
 .posts li span{
 	color:white;
 }
