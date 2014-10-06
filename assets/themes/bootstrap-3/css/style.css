@@ -16,7 +16,8 @@
 /* Jekyll Bootstrap Colors */
 body 
 	{ 
-  	background: url(http://prashant-surya.github.io/assets/images/bg.jpg) no-repeat 50% 50% fixed; 
+  	/* background: url(http://prashant-surya.github.io/assets/images/bg.jpg) no-repeat 50% 50% fixed; */
+  	background-color:#FAFAFA;
    	background-size: cover;
   	-webkit-background-size:cover;
   	-moz-background-size: cover;
