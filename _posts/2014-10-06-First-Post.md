@@ -1,8 +1,10 @@
 ---
 layout: post
-category : Fun
-tags :[fun]
+category : fun
+tagline: "Computer science way of saying hello"
+tags : [fun]
 ---
+
 {% include JB/setup %}
 
 ##Hello World
