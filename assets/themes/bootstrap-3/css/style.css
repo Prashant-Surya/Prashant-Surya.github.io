@@ -22,7 +22,7 @@ body
   	-moz-background-size: cover;
   	-o-background-size: cover;
 	}
-.nav{
+.collapse navbar-collapse ul li{
  	color:#29a0d8;
 }
 .posts li span{
