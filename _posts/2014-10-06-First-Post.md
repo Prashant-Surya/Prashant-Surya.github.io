@@ -4,6 +4,7 @@ category : Fun
 tags :[fun]
 ---
 {% include JB/setup %}
+
 ##Hello World
 I always wanted to blog.. I created a blog in wordpress.. Blogging in sites like blogger,wordpress is like posting status updates in social networking sites.. If you can create a site, design it, develop it why still use those websites ?
 So, I decided to design my blog and develop it.
