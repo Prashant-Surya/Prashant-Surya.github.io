@@ -25,6 +25,9 @@ body
 .posts li span{
 	color:white;
 }
+.date span{
+	color:#29a0d8;
+}
 .navbar {
    background-color: transparent;
    background: transparent;
