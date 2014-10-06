@@ -22,6 +22,9 @@ body
   	-moz-background-size: cover;
   	-o-background-size: cover;
 	}
+.posts li span{
+	color:white;
+}
 .navbar {
    background-color: transparent;
    background: transparent;
