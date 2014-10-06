@@ -52,7 +52,9 @@ h1, h2, h3, h4 {
 .content p{
  color:#FFFFFF;
 }
-
+.content{
+ color:#FFFFFF;
+}
 /* posts index */
 .post > h3.title {
   position: relative;
