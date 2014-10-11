@@ -1,0 +1,34 @@
+---
+layout: post
+category : Code
+tagline: ""  
+tags : [Python]
+---
+
+{% include JB/setup %}
+
+##Python and Codechef
+
+Codechef... After a long time I now submitted many answers in codechef. I always got problems with declarations of large 
+
+sized values in C. In python there is no problem with declarations. But I always used to get NZEC error. Using stdin 
+
+instead of input() removed that error.
+
+Codechef provides a problem [INTEST](http://www.codechef.com/problems/INTEST) to test if the process we are using to take 
+inputs is sufficient for taking large inputs
+
+But as input() is faster than stdin some programs I do in python are getting Time Limit Exceeded Error. My next aim is to 
+work on time limit. And design better and faster code..
+
+Python 2.7 supports
+
+``` 
+import psyco
+psyco.full()
+
+```
+
+That speeds up the programs from 2 to 100 times faster. But it is not seen in python3. So I need to find new methods to 
+
+speed up my py code or to learn how to handle large inputs and declarations in C. 
